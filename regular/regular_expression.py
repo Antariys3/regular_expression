@@ -1,6 +1,6 @@
 import re
 
-# I did this on purpose for easy reading
+
 letter = "Hello, my personal email is andre.33@gmail.com, my work email is andre-tarasenko@live.com. "\
     "My personal phone is +48-795-768-450, work number is +48-789-456-321. "\
     "Date of birth (12,02,1989 or 12-02-1989 or 12/02/1989 or 12.02.1989)."
